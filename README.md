@@ -356,8 +356,8 @@ def generate_joke(prompt, max_new_tokens=90):
 | **Institute** | National Institute of Technology (NIT), Patna |
 | **Department** | Computer Science & Engineering |
 | **Guide** | Dr. Jyoti Prakash Singh, Associate Professor |
-| **Student** | Uttam Kumar (24A12res1147) |
-| **Date** | 29 December 2025 |
+| **Student** |Amit Kumar Behera |
+| **Date** | 1 Jan 2026 |
 
 </div>
 
